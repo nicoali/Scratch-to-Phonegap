@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[effarigori.effanapoli.edu.mit.scratch]"
+        id          = "[effarigori.effatanapoli.edu.mit.scratch]"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -13,8 +13,8 @@
         Ann app made using Scratch, Phonegap, github, and PhoneGap
     </description>
 
-    <author href="http://scratch.mit.edu/users/[effanapoli]" email="[nicsaliotta@gmail.com]">
-        [effanapoli]
+    <author href="http://scratch.mit.edu/users/[effatanapoli]" email="[nicsaliotta@gmail.com]">
+        [effatanapoli]
     </author>
 
 </widget>
